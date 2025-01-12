@@ -1,0 +1,2 @@
+# Uninitialized Property in C#
+This repository demonstrates a common C# error: a `NullReferenceException` caused by an uninitialized property.  The `MyClass` example shows how accessing the `MyProperty` before assigning a value can lead to runtime errors.  The solution provides a way to initialize the property to a default value or handle potential null values.
